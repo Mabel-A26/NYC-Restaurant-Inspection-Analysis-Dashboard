@@ -65,7 +65,7 @@ Key preparation steps included:
 ---
 
 ## Dashboard Preview
-_Add a screenshot of the Power BI dashboard here._
+![NYC Restaurant Inspection Dashboard](powerbi/NYC_Restaurant_Inspection.png)
 
 ---
 
