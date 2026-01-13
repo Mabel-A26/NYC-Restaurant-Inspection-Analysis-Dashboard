@@ -65,7 +65,8 @@ Key preparation steps included:
 ---
 
 ## Dashboard Preview
-![NYC Restaurant Inspection Dashboard](powerbi/NYC_Restaurant_Inspection.png)
+![NYC Restaurant Inspection Dashboard](images/NYC_Restaurant_Inspection.png)
+
 
 ---
 
