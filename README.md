@@ -69,12 +69,5 @@ Key preparation steps included:
 
 ---
 
-## Future Enhancements
-- Add time-series analysis to evaluate trends over multiple years
-- Expand geographic analysis using ZIP code or census tract granularity
-- Introduce advanced metrics with a dedicated date dimension
-
----
-
 ## 📬 Contact
 Feel free to reach out if you’d like to discuss this project or collaborate on similar data analysis work.
